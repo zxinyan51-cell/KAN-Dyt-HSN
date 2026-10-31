@@ -3,18 +3,18 @@
 This is the official PyTorch implementation of the paper:
 **"Robust Bi-temporal Tree Change Detection via Hyperbolic Siamese Networks with KAN-Inspired Transformation and Dynamic Tanh Normalization"**
 
-## 📖 Overview
+##Overview
 
 This repository provides the source code and pre-trained model weights for the **DyT-KAN-HSN** framework. The model integrates Dynamic Tanh (DyT) normalization and a lightweight KAN-inspired feature transformation into a Hyperbolic Siamese Network to achieve robust bi-temporal remote sensing change detection.
 
-## 🚀 Pre-trained Weights
+## Pre-trained Weights
 
 Due to GitHub file size constraints, the pre-trained model weights (`.pth` files) are hosted as release assets. 
 
 You can download the official weights for all three datasets here:
-👉 **[Download Pre-trained Weights (v1.0.0)](https://github.com/zxinyan51-cell/KAN-Dyt-HSN/releases/tag/v1.0)** *(注：请确认这个链接是你刚才发布的那个 Release 的真实链接)*
+👉**[Download Pre-trained Weights (v1.0.0)](https://github.com/zxinyan51-cell/KAN-Dyt-HSN/releases/tag/v1.0)**
 
-## 🛠️ Environment Setup
+## Environment Setup
 
 ```bash
 # Create a conda environment
